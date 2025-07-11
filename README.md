@@ -38,7 +38,7 @@ Digitize and extract the following structured fields for each resident or busine
 - Google Colab environment (via `userdata` for secure API usage)
 - Tesseract for OCR pipelines
 
-## 🚀 How to Run
+## How to Run
 
 1. Upload the abbreviation and target pages (e.g., `1900_page111.pdf`, `1900_page112.pdf`, etc.)
 2. Store your Gemini API Key in Colab using:
