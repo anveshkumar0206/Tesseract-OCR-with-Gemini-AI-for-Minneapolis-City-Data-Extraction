@@ -48,7 +48,7 @@ from google.colab import userdata
 userdata.set("GOOGLE_API_KEY", "your-api-key")
 Run the notebook to generate the JSON output.
 
-📌 Example Output
+Example Output
 json
 
 {
