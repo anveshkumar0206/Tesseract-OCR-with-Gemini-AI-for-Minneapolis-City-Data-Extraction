@@ -1,0 +1,1 @@
+# Tesseract-OCR-with-Gemini-AI-for-Minneapolis-City-Data-Extraction
